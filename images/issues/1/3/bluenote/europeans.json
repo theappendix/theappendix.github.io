@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Kurt Weill",
+    "birthplace": {
+      "city": "Dessau",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.8222436,
+        "longitude": 12.2424516
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Fritz Lang",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Albert Einstein",
+    "birthplace": {
+      "city": "Ulm",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 48.4042981,
+        "longitude": 9.979349000000001
+      }
+    },
+    "destination": {
+      "city": "Princeton",
+      "state": "NJ",
+      "coordinates": {
+        "latitude": 40.3572976,
+        "longitude": -74.6672226
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Erich Korngold",
+    "birthplace": {
+      "city": "Brno",
+      "state": "Czech Republic",
+      "coordinates": {
+        "latitude": 49.1950602,
+        "longitude": 16.6068371
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Franz Waxman",
+    "birthplace": {
+      "city": "Königshütte",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.7424073,
+        "longitude": 10.7653615
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Ernst Krenek",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "Poughkeepsie",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 41.7003713,
+        "longitude": -73.9209701
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Arnold Schoenberg",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Hans Eisler",
+    "birthplace": {
+      "city": "Leipzig",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.3396955,
+        "longitude": 12.3730747
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Bruno Walter",
+    "birthplace": {
+      "city": "Berlin",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Robert Siodak",
+    "birthplace": {
+      "city": "Dresden",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.0504088,
+        "longitude": 13.7372621
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Fred Zinnemann",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Thomas Mann",
+    "birthplace": {
+      "city": "Lübeck",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 53.86588560000001,
+        "longitude": 10.6870959
+      }
+    },
+    "destination": {
+      "city": "Princeton",
+      "state": "NJ",
+      "coordinates": {
+        "latitude": 40.3572976,
+        "longitude": -74.6672226
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Klaus Mann",
+    "birthplace": {
+      "city": "Munich",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 48.1367203,
+        "longitude": 11.576754
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Lotte Lenya",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Marlene Dietrich",
+    "birthplace": {
+      "city": "Berlin",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Paul Tillich",
+    "birthplace": {
+      "city": "Starzeddel",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.8577986,
+        "longitude": 14.821322
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Peter Lorre",
+    "birthplace": {
+      "city": "Ruzomberok",
+      "state": "slovakia",
+      "coordinates": {
+        "latitude": 49.08154740000001,
+        "longitude": 19.304323
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Billy Wilder",
+    "birthplace": {
+      "city": "Sucha Beskidzka",
+      "state": "Poland",
+      "coordinates": {
+        "latitude": 49.74127,
+        "longitude": 19.58636
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Mies van der Rohe",
+    "birthplace": {
+      "city": "Aachen",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 50.7753455,
+        "longitude": 6.083886800000001
+      }
+    },
+    "destination": {
+      "city": "Chicago",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 41.8781136,
+        "longitude": -87.6297982
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Josef Albers",
+    "birthplace": {
+      "city": "Bottrop",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 51.529086,
+        "longitude": 6.9446888
+      }
+    },
+    "destination": {
+      "city": "Black Mountain",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.6178951,
+        "longitude": -82.3212302
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Herb Marcuse",
+    "birthplace": {
+      "city": "Berlin",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Paul Lazarsfeld",
+    "birthplace": {
+      "city": "Vienna",
+      "state": "Austria",
+      "coordinates": {
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+      }
+    },
+    "destination": {
+      "city": "Newark",
+      "state": "NJ",
+      "coordinates": {
+        "latitude": 40.735657,
+        "longitude": -74.1723667
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Theodor Adorno",
+    "birthplace": {
+      "city": "Frankfurt am Main",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 50.1109221,
+        "longitude": 8.6821267
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Max Horkheimer",
+    "birthplace": {
+      "city": "Stuttgart",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 48.7754181,
+        "longitude": 9.181758799999999
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Otto Klemperer",
+    "birthplace": {
+      "city": "Wroclaw",
+      "state": "Poland",
+      "coordinates": {
+        "latitude": 51.1078852,
+        "longitude": 17.0385376
+      }
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0522342,
+        "longitude": -118.2436849
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Georg Grosz",
+    "birthplace": {
+      "city": "Berlin",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Walter Gropius",
+    "birthplace": {
+      "city": "Berlin",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "Cambridge",
+      "state": "MA",
+      "coordinates": {
+        "latitude": 42.3736158,
+        "longitude": -71.10973349999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Marcel Breuer",
+    "birthplace": {
+      "city": "Pecs",
+      "state": "Hungary",
+      "coordinates": {
+        "latitude": 46.0727345,
+        "longitude": 18.232266
+      }
+    },
+    "destination": {
+      "city": "Cambridge",
+      "state": "MA",
+      "coordinates": {
+        "latitude": 42.3736158,
+        "longitude": -71.10973349999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Laszlo Moholy-Nagy",
+    "birthplace": {
+      "city": "Bacsborsod",
+      "state": "Hungary",
+      "coordinates": {
+        "latitude": 46.0989373,
+        "longitude": 19.1566725
+      }
+    },
+    "destination": {
+      "city": "Chicago",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 41.8781136,
+        "longitude": -87.6297982
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Hans Berthe",
+    "birthplace": {
+      "city": "Strasbourg",
+      "state": "Germany",
+      "coordinates": {
+        "latitude": 48.583148,
+        "longitude": 7.747882
+      }
+    },
+    "destination": {
+      "city": "Ithaca",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 42.4439614,
+        "longitude": -76.5018807
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Kurt Gödel",
+    "birthplace": {
+      "city": "brno",
+      "state": "czech republic",
+      "coordinates": {
+        "latitude": 49.1950602,
+        "longitude": 16.6068371
+      }
+    },
+    "destination": {
+      "city": "Princeton",
+      "state": "NJ",
+      "coordinates": {
+        "latitude": 40.3572976,
+        "longitude": -74.6672226
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Alfred Lion",
+    "birthplace": {
+      "city": "berlin",
+      "state": "germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "New york",
+      "state": "ny",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Francis Wolff",
+    "birthplace": {
+      "city": "berlin",
+      "state": "germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "new york",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 40.7143528,
+        "longitude": -74.00597309999999
+      }
+    },
+    "reviewed": true
+  },
+  {
+    "name": "Marli Ehrmann",
+    "birthplace": {
+      "city": "berlin",
+      "state": "germany",
+      "coordinates": {
+        "latitude": 52.519171,
+        "longitude": 13.4060912
+      }
+    },
+    "destination": {
+      "city": "Chicago",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 41.8781136,
+        "longitude": -87.6297982
+      }
+    },
+    "reviewed": true
+  }
+]

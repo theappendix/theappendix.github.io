@@ -1,0 +1,98 @@
+.issue-frontmatter-content div.table-of-contents ul li div.details span.title a:hover {
+  color: #e06d2a; }
+
+.issue-frontmatter-content div.header {
+  border-color: #e06d2a; }
+  .issue-frontmatter-content div.header p.archive {
+    border-color: #e06d2a; }
+    .issue-frontmatter-content div.header p.archive a {
+      color: #e06d2a; }
+
+nav.header-navigation {
+  border-color: #e06d2a; }
+  nav.header-navigation li a {
+    color: #e06d2a; }
+    nav.header-navigation li a:hover {
+      color: #c96226; }
+
+.article-content p.alternate-voice {
+  background-color: #ffefe5; }
+.article-content p.alternate-voice a {
+  color: #ba5b23; }
+  .article-content p.alternate-voice a:hover {
+    color: #e06d2a; }
+.article-content hr {
+  border-color: #e06d2a; }
+  .article-content hr.special {
+    background-color: #e06d2a; }
+.article-content blockquote {
+  border-color: #e06d2a; }
+.article-content a {
+  color: #e06d2a; }
+  .article-content a:hover {
+    color: #c96226; }
+  .article-content a.supernote-icon:hover {
+    background-color: #fae7dc; }
+.article-content table td {
+  background-color: #fae7dc; }
+.article-content div.supernote-container {
+  background-color: #fae7dc; }
+.article-content div.inline-audio {
+  border-color: #e06d2a; }
+  .article-content div.inline-audio a.sm2_button,
+  .article-content div.inline-audio a.sm2_button.sm2_paused:hover {
+    background-color: #e06d2a; }
+  .article-content div.inline-audio a.sm2_button:hover,
+  .article-content div.inline-audio a.sm2_button.sm2_playing,
+  .article-content div.inline-audio a.sm2_button.sm2_playing:hover {
+    background-color: #ba5b23; }
+  .article-content div.inline-audio a.sm2_button.sm2_paused,
+  .article-content div.inline-audio a.sm2_button.sm2_paused:hover {
+    background-color: #c96226; }
+.article-content .bio-footer {
+  border-color: #e06d2a; }
+
+.issue-footer ul.table-of-contents {
+  background-color: #ffefe5;
+  background-color: rgba(255, 239, 229, 0.5); }
+  .issue-footer ul.table-of-contents li:hover, .issue-footer ul.table-of-contents li.here {
+    background-color: #c96226;
+    background-color: rgba(201, 98, 38, 0.2);
+    border-color: #c96226;
+    border-color: rgba(201, 98, 38, 0.5); }
+  .issue-footer ul.table-of-contents a {
+    color: #ba5b23;
+    line-height: 125%;
+    text-decoration: none; }
+    .issue-footer ul.table-of-contents a:hover {
+      color: #e06d2a; }
+
+header.site-header {
+  background-color: #e06d2a;
+  background-image: url(/images/issues/2/1/issue-header.jpg);
+  border-color: #e06d2a; }
+
+footer.site-footer {
+  border-color: #e06d2a; }
+  footer.site-footer a {
+    color: #e06d2a; }
+    footer.site-footer a:hover {
+      color: #c96226; }
+  footer.site-footer ul.links {
+    border-color: #e06d2a; }
+
+.page-content {
+  background-image: url(/images/issues/2/1/issue-footer.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat; }
+
+#special-thefever-wrapper #sidebar li:hover {
+  color: #e06d2a; }
+#special-thefever-wrapper #sidebar li a:hover {
+  color: #e06d2a; }
+#special-thefever-wrapper #sidebar #snapback a:hover, #special-thefever-wrapper #sidebar #restart a:hover, #special-thefever-wrapper #sidebar #bookmark a:hover {
+  color: #e06d2a; }
+#special-thefever-wrapper .passage a {
+  color: #e06d2a; }
+  #special-thefever-wrapper .passage a:hover {
+    color: #c96226; }
