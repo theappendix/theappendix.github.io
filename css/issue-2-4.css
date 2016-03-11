@@ -32,11 +32,11 @@ nav.header-navigation {
   .article-content a:hover {
     color: #deaf76; }
   .article-content a.supernote-icon:hover {
-    background-color: white; }
+    background-color: #fdf0e1; }
 .article-content table td {
-  background-color: white; }
+  background-color: #fdf0e1; }
 .article-content div.supernote-container {
-  background-color: white; }
+  background-color: #fff3e5; }
 .article-content div.inline-audio {
   border-color: #f5c183; }
   .article-content div.inline-audio a.sm2_button,

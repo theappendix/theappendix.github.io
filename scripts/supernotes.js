@@ -67,7 +67,7 @@ function buildLink(note) {
   var link = $('<a/>')
                 .attr('href', note['url'])
                 .attr('target', '_blank')
-                .text(note['label']);
+                .html(note['label']);
 
   return $('<li/>').append(link);
 }
