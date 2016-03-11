@@ -1,3 +1,7 @@
+body {
+  min-width: 960px;
+}
+
 article.page-wrap {
   max-width: 960px;
   width: 960px;
