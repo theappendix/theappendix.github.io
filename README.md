@@ -1,2 +1,3 @@
-# theappendix-jekyll-source
-Jekyll project for a static-site archive of content from The Appendix
+# theappendix.github.io
+
+Static-site archive of content from The Appendix (2012-2015): [theappendix.net](http://theappendix.net)
