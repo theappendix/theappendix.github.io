@@ -1122,3 +1122,87 @@ span.invisible-text {
     .about-content ul.personnel span.roles span.numbers {
       color: #aaa;
       font-size: .8em; }
+
+div.home h1 {
+  text-align: left; }
+div.home p {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin: 1.5em auto; }
+  div.home p a {
+    color: #3ad5ce;
+    font-weight: bold; }
+    div.home p a:hover {
+      color: #28bab3; }
+div.home hr {
+  border-color: #3ad5ce;
+  border-style: dotted;
+  border-width: 1px 0 0 0;
+  margin: 3em auto;
+  width: 33.3333%; }
+div.home ul.covers {
+  margin: 3em 0;
+  padding: 0; }
+  div.home ul.covers li {
+    display: block;
+    float: left;
+    list-style-type: none;
+    margin: 0 1.333333333% 1.333333333% 0;
+    padding: 0;
+    width: 24%; }
+    div.home ul.covers li:nth-child(4n) {
+      margin-right: 0; }
+    div.home ul.covers li a {
+      display: block;
+      height: 0;
+      padding: 71.0479574% 0;
+      position: relative; }
+    div.home ul.covers li img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%; }
+div.home div.balloon {
+  margin: 4em auto 2em auto;
+  height: 120px;
+  width: 64px; }
+
+@media all and (max-width: 720px) {
+  body {
+    font-size: 15px; }
+
+  .page-wrap {
+    width: 80%; }
+
+  .issue-frontmatter-content div.header div.cover {
+    float: none; }
+  .issue-frontmatter-content div.header div.details {
+    margin-left: 0; }
+
+  .issue-footer ul.table-of-contents li {
+    width: 100%;
+    margin-right: 0; } }
+@media all and (max-width: 440px) {
+  body {
+    font-size: 14px; }
+
+  header.site-header div#title-banner a.logomark {
+    display: none; }
+  header.site-header div.issue-meta {
+    font-size: .9em; }
+
+  .page-wrap {
+    width: 85%; }
+
+  .page-content {
+    padding-top: 0; }
+
+  .post-header-image {
+    margin-top: 0; }
+
+  .article-content p.alternate-voice {
+    margin-right: auto;
+    margin-left: auto; }
+
+  .issues-landing-content ul li .cover {
+    display: none; } }
