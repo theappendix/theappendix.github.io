@@ -1,6 +1,6 @@
 {
     "id": "issue-1-4-cempoala-map",
-    "tiles": "http://media.theappendix.net/issues/2013/10/cempoala/{z}/{x}/{y}.png",
+    "tiles": "/images/issues/1/4/cempoala/{z}/{x}/{y}.png",
     "center": [0,0],
     "zoom": 2,
     "minZoom": 2,
@@ -17,7 +17,7 @@
             "type": "text-image",
             "message": "<p>In those Mexican casas reales, the replies were translated back into Spanish, set down in alphabetic script on expensive imported paper, carried back to Mexico City, and then shipped to Spain. Today, these replies, known as the <i>Relaciones geográficas</i>, are collectively the most important source for regional history in the sixteenth-century New World—their raw data translated into the clean prose of a historical text.</p>\n<p>The line of falling dominos, those translated questions and replies passing from one mind and hand to another, had an offshoot that began in the early set of exchanges in one casa real. Question ten asked for a <i>pintura</i>, a term that might be translated to <i>tlacuilolli</i> in Nahuatl, understood to be a map of the town or region. But the <i>tlacuilo</i> (the person who created the tlacuilolli) was more than a scrivener. Rather, he (and sometimes she) was understood to have the capacity to translate immaterial knowledge into visible form. Every act of putting a brush loaded with pigment onto paper was an inquiry into the nature of the world.</p>",
             "image": {
-                "src": "http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/701/medium/mundy1.jpg",
+                "src": "/images/issues/1/4/medium-mundy1.jpg",
                 "width": 300,
                 "height": 441,
                 "caption": "The printed text of the Relación Geográfica questionnaire, 1577.",
@@ -28,7 +28,7 @@
             "type": "text-image-vertical",
             "message": "<p>The pintura from the region of Cempoala is one of these acts of translation. It shows us a region to the northeast of Mexico City, and on the expanse of paper, measuring 67 x 81.5 cm, its creator has depicted a region of about 600 square miles.</p>",
             "image": {
-                "src": "http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/702/medium/Mundy2.jpg",
+                "src": "/images/issues/1/4/medium-Mundy2.jpg",
                 "width": 640,
                 "height": 427,
                 "caption": "Cempoala region with rough area covered on the map or pintura of the Relación Geográfica of Cempoala highlighted.",
@@ -114,7 +114,7 @@
             "type": "text-image-vertical",
             "message": "<p>Below is one such woodcut, set into a Bible printed in 1561 and imported to Mexico. In the scene from Genesis, the Tower of Bable is erected, and in the illustration, the basic conventions for rendering in perspective and shading are set out.</p>",
             "image": {
-                "src": "http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/706/medium/Mundy6.jpg",
+                "src": "/images/issues/1/4/medium-Mundy6.jpg",
                 "width": 560,
                 "height": 452,
                 "caption": "Unknown artist, The tower of Babel, from Genesis 11, <i>Biblia Sacra, ex postremis doctorum omnium vigiliis</i> (Lyon: Jacob de Millis, 1561), 10.",
@@ -222,7 +222,7 @@
             "type": "text-image-vertical",
             "message": "<p>The image below is drawn from the diagram of the cosmos that opens the Codex Fejérváry-Mayer, a pre-Hispanic sacred manuscript. Here, in each of the four quadrants of the world, a bird sits at the top of a world tree. In Cempoala, it is unresolved why the artist represented three birds when one would suffice, but the inclusion of such a potent symbol within the place name shows the deep imprint of long-held spatial templates.</p>",
             "image": {
-                "src": "http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/000/712/medium/Mundy_Figure-12.jpg",
+                "src": "/images/issues/1/4/medium-Mundy_Figure-12.jpg",
                 "width": 360,
                 "height": 360,
                 "caption": "Drawing of the four directions of the world, after Codex Fejérváry-Mayer, fol. 1r., fifteenth-early sixteenth century.",

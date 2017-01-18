@@ -58,7 +58,7 @@ var map_data = [
         type: "cataclysm",
         title: "Downfall of Ur",
         dateline: "Mesopotamia, 3rd millennium BCE",
-        description: "From “<a href='http://theappendix.net/issues/2012/12/calypso's-island-a-short-history-of-the-apocalypse'>Calypso’s Island: A Short History of the Apocalypse</a>” in this issue: “In 2004 BC, soldiers from the emerging empire of Elam in present-day Iran overran the city’s fortifications and killed or enslaved many of its citizens. For the inhabitants of Ur, it truly was the end of the world—or, at least, of <i>their</i> world. Remembering the disaster decades later, the survivors produced some of the earliest poetry in the historical record. These poems are dark lamentations, frightening, violent and nihilistic in tone.” Despite Ur’s importance as an early urban center, much of its culture and language was lost following this disastrous invasion.",
+        description: "From “<a href='http://theappendix.net/issues/2012/12/calypso's-island:-a-short-history-of-the-apocalypse'>Calypso’s Island: A Short History of the Apocalypse</a>” in this issue: “In 2004 BC, soldiers from the emerging empire of Elam in present-day Iran overran the city’s fortifications and killed or enslaved many of its citizens. For the inhabitants of Ur, it truly was the end of the world—or, at least, of <i>their</i> world. Remembering the disaster decades later, the survivors produced some of the earliest poetry in the historical record. These poems are dark lamentations, frightening, violent and nihilistic in tone.” Despite Ur’s importance as an early urban center, much of its culture and language was lost following this disastrous invasion.",
         x: 150,
         y: 330,
         date: -2000,
